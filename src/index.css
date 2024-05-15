@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-width: 320px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #1d9bf0;
+  --primary-light: #8ecdf7;
+  --primary-text: #0f1419;
+  --secondary-text: #536471;
+  --border: #cfd9de;
+}
